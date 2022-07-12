@@ -1,3 +1,3 @@
 # DeathbringerResearch
-Reverse engineering a task from crackmes.one
+Reverse engineering a crackme from crackmes.one
 More information available in pdf document
